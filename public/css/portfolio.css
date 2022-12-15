@@ -1,0 +1,83 @@
+body {
+    font-family: Helvetica, sans-serif;
+    padding: 0;
+    font-size: 1.25rem;
+    background-color: #1A1A1D;
+}
+
+
+/* Navigation Bar */
+
+
+/* About Me */
+
+.about-me-column {
+    padding: 3%;
+    background-color: #fff;
+}
+
+.bunny-vector {
+    height: 300px;
+}
+
+
+/* Education */
+
+#education {
+    background-color: #4E4E50;
+}
+
+.card {
+    width: 215px;
+}
+
+.score {
+    background-color: #4E4E50;
+}
+
+.education-level {
+    padding: 60px;
+}
+
+.education-course {
+    line-height: 1.5rem;
+}
+
+.education-divider {
+    border-bottom: 3px dotted black;
+    opacity: 50%;
+}
+
+
+/* Projects*/
+
+#projects {
+    background-color: #1A1A1D;
+}
+
+.project-details {
+    padding: 3% 0%;
+}
+
+
+
+
+
+/* Contact Me */
+
+#contact-me {
+    background-color: #54BAB9;
+}
+
+#contact-me a {
+    color: #000;
+}
+
+#contact-me i {
+    padding: 0% 1%;
+    font-size: 2rem;
+}
+
+#contact-me{
+    opacity:75%;
+}
